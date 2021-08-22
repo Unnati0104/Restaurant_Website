@@ -25,3 +25,7 @@ Benefits of food ordering platforms:-
 * For more functionality, we can put filters on food items or on categories. 
 
 > You can also have a look on the website [Bite'n'Slice](https://unnati0104.github.io/Restaurant_Website/)
+
+1. Download the souce code directly from GitHub.
+2. Open the folder in VSCode.
+3. Run it on your browser. 
